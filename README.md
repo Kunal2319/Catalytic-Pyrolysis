@@ -1,4 +1,4 @@
-# Catalytic Pyrolysis of Plastics Predictive Modeling
+# Predictive Modeling of Catalytic Pyrolysis Process
 
 ## Overview
 
@@ -30,7 +30,7 @@ We are actively addressing this limitation by:
 
 We welcome contributions and suggestions to enhance the project. You can fix the repository, create a new branch, make your changes, and submit a pull request. Additionally, please report any issues or bugs you encounter through the repository's issue tracker.
 
-Thank you for being so interested in the Catalytic Pyrolysis of Plastics Predictive Modeling project!
+Thank you for being so interested in the Predictive Modeling of Catalytic Pyrolysis Process project!
 
 
 
