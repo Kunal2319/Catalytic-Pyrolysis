@@ -1,2 +1,36 @@
-In this Project, I, along with my two batchmates, have worked on the Predictive modeling of the process of Catalytic Pyrolysis of Plastics. I first collected the data from Various Research papers available over the Internet and organized them in a Google Sheet. The data was Cleaned and Pre-processed for use in the predictive modeling. The dataset contained a lot of features and the target variables were the Oil and Gas yield from the pyrolysis process. Some features were dropped as there was much missing data for those columns.
-After all the processing, Machine Learning Algorithms like Multi-Variate Linear Regression, Support Vector Regression, and Random forest Regression were applied to predict the Oil yield of the process. The R2 score was highest for Linear Regression followed by Random Forest and Support Vector respectively. The accuracy of the models was not much satisfying, because of the small dataset which was available to us. We are working on Further collection of data and also more accurate pre-processing techniques to deal with missing data. Additionally, we are actively researching and implementing advanced machine-learning techniques in order to optimize the alignment of our models with the data at hand.
+# Catalytic Pyrolysis of Plastics Predictive Modeling
+
+## Overview
+
+Welcome to the Catalytic Pyrolysis of Plastics Predictive Modeling project repository. In this project, we aimed to develop predictive models for the Catalytic Pyrolysis process, focusing on predicting the Oil and Gas yield. The dataset was collected from various research papers available over the internet, organized in a Google Sheet, and subsequently processed for use in machine learning algorithms.
+
+## Project Structure
+
+The repository is organized as follows:
+
+- **data**: This directory contains the raw dataset. The raw data was collected from research papers, and the processed data was used for training and evaluating the machine learning models.
+
+- **notebook**: Jupyter notebook used for data collection, cleaning, preprocessing, and model training is stored here. 
+
+- **documentation**: Additional documentation, including this README file, can be found in this directory.
+
+## Results and Future Work
+
+The initial results of our predictive modeling efforts indicate that the Linear Regression model outperformed the Support Vector Regression and Random Forest Regression models, as evidenced by the R2 scores. However, due to the limited size of the dataset, the overall accuracy of the models is not entirely satisfying.
+
+We are actively addressing this limitation by:
+
+- **Data Collection:** Continuing to gather additional data from diverse sources to improve the robustness of the models.
+
+- **Preprocessing Techniques:** Exploring and implementing more accurate preprocessing techniques, especially in handling missing data.
+
+- **Advanced Machine Learning Techniques:** Researching and implementing advanced machine learning techniques to optimize model alignment with the available data.
+
+## Contributions
+
+We welcome contributions and suggestions to enhance the project. You can fix the repository, create a new branch, make your changes, and submit a pull request. Additionally, please report any issues or bugs you encounter through the repository's issue tracker.
+
+Thank you for being so interested in the Catalytic Pyrolysis of Plastics Predictive Modeling project!
+
+
+
